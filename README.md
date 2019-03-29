@@ -1,6 +1,6 @@
 # WiFiID
 
-![Logo](https://raw.githubusercontent.com/ybreza/WiFiID/master/.assets/logo/Logotype.png)
+![Logo](https://https://cdn.dribbble.com/users/427761/screenshots/2830628/facebook.gif)
 
 [![release](https://img.shields.io/github/release/dwisiswant0/WiFiID.svg)](https://github.com/dwisiswant0/WiFiID/releases/)
 [![license](https://img.shields.io/github/license/dwisiswant0/WiFiID.svg)](https://github.com/dwisiswant0/WiFiID/blob/master/LICENSE)
