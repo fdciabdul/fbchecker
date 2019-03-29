@@ -1,6 +1,6 @@
 # WiFiID
 
-![Logo](https://https://cdn.dribbble.com/users/427761/screenshots/2830628/facebook.gif)
+![Image of FbChecker](https://github.com/fbchecker/ss.png))
 
 [![release](https://img.shields.io/github/release/dwisiswant0/WiFiID.svg)](https://github.com/dwisiswant0/WiFiID/releases/)
 [![license](https://img.shields.io/github/license/dwisiswant0/WiFiID.svg)](https://github.com/dwisiswant0/WiFiID/blob/master/LICENSE)
