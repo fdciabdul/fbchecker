@@ -5,7 +5,6 @@
 [![release](https://img.shields.io/github/release/dwisiswant0/WiFiID.svg)](https://github.com/dwisiswant0/WiFiID/releases/)
 [![license](https://img.shields.io/github/license/dwisiswant0/WiFiID.svg)](https://github.com/fdciabdul/fbchecker/blob/master/LICENSE)
 [![contributions](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/fdciabdul/fbchecker/issues)
-[![hits](http://github.com/fdciabdul/fbchecker)](http://github.com/fdciabdul/fbchecker)
 
 Facebook Mass Account Checker Simple
 Installation :
