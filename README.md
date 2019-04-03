@@ -1,7 +1,6 @@
 ## FACEBOOK MASS ACCOUNT CHECKER
 
 ![Image](https://raw.githubusercontent.com/fdciabdul/fbchecker/master/ss.png)
-[![release](https://img.shields.io/github/release/fdciabdul/WiFiID.svg)](https://github.com/fdciabdul/fbchecker/releases/)
 [![license](https://img.shields.io/github/license/dwisiswant0/WiFiID.svg)](https://github.com/fdciabdul/fbchecker/blob/master/LICENSE)
 
 Facebook Mass Account Checker Simple
