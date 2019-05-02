@@ -3,7 +3,7 @@
  * @author Rifqi Haidar
  * @license MIT License
  * @link https://github.com/rifqihaidar/Facebook-Accounts-Checker
- *@Recode By : Inside Heartz
+ * @Recode By : Inside Heartz
  */
  $biru = "\e[34m";
 $kuning = "\e[33m";
