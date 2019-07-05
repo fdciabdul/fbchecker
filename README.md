@@ -18,4 +18,5 @@ Usage
  php fbcheck.php target.txt
 ```
 
-##Website : [InsideHeartz.id](https://insideheartz.id)
+- Website : [InsideHeartz.id](https://insideheartz.id)
+
