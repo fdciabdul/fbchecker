@@ -1,11 +1,6 @@
 <?php
-/**
- * @author Rifqi Haidar
- * @license MIT License
- * @link https://github.com/rifqihaidar/Facebook-Accounts-Checker
- * @Recode By : Inside Heartz
- */
- $biru = "\e[34m";
+
+$biru = "\e[34m";
 $kuning = "\e[33m";
 $cyan = "\e[96m";
 $magenta = "\e[35m";
