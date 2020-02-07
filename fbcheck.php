@@ -31,7 +31,7 @@ if(isset($argv[1])) {
           
         }
     }else die("File doesn't exist!");
-}else die("$merah Usage: php check.php targets.txt \n");
+}else die("$merah Usage: php fbcheck.php targets.txt \n");
 function nyobianAkun($emailnaetateh, $iyeutehsandina) {
     $asaltisakabehna = array(
         "access_token" => "350685531728|62f8ce9f74b12f84c123cc23437a4a32",
