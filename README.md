@@ -1,3 +1,7 @@
+[ABANDONED]
+
+Facebook block multiple access with their API
+
 ## FACEBOOK MASS ACCOUNT CHECKER
 
 ![Image](https://raw.githubusercontent.com/fdciabdul/fbchecker/master/ss.png)
